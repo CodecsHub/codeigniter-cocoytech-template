@@ -1,5 +1,5 @@
 <?php
-die('test');
+die('TSDS');
 /**
  * CodeIgniter
  *
