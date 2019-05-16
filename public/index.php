@@ -1,6 +1,4 @@
 <?php
-die('TSDS');
-
 /**
  * CodeIgniter
  *
