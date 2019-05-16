@@ -8,7 +8,7 @@
 | This option allows you to enable the developer's Toolbar
 |
 */
-$config['enable_develbar'] = TRUE;
+$config['enable_develbar'] = FALSE;
 
 /*
 |--------------------------------------------------------------------------
@@ -19,7 +19,7 @@ $config['enable_develbar'] = TRUE;
 | if this option is set to TRUE, it will slow down the page loading
 |
 */
-$config['check_update'] = TRUE;
+$config['check_update'] = FALSE;
 
 $config['profiler_key_expiration_time'] = 1800; // sec
 
