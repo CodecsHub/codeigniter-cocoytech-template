@@ -17,3 +17,16 @@ app/logs/*
 !app/logs/.htaccess
 !app/logs/web.config
 /vendor/
+
+#global configuration
+.idea/
+.vs/
+.env.prod
+.pk
+.pem
+.pub
+.vim
+.idea
+.eclipse
+.atom
+.vscode
